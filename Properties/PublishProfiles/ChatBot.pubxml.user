@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Shared</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="apiapp.json">
+      <publishTime>09/19/2018 17:40:48</publishTime>
+    </File>
+    <File Include="bin/ar/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:21:04</publishTime>
+    </File>
+    <File Include="bin/Autofac.dll">
+      <publishTime>05/09/2018 11:57:54</publishTime>
+    </File>
+    <File Include="bin/ChatBotApplication.dll">
+      <publishTime>09/20/2018 16:30:27</publishTime>
+    </File>
+    <File Include="bin/Chronic.dll">
+      <publishTime>05/09/2016 10:16:50</publishTime>
+    </File>
+    <File Include="bin/cs/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:21:08</publishTime>
+    </File>
+    <File Include="bin/de-dE/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:21:02</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/20/2015 16:32:22</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/20/2015 16:33:04</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>11/20/2015 16:34:34</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>11/20/2015 16:35:32</publishTime>
+    </File>
+    <File Include="bin/el/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:20:56</publishTime>
+    </File>
+    <File Include="bin/en/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:20:58</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:20:56</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/20/2015 16:32:22</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/20/2015 16:33:04</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>11/20/2015 16:34:34</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>11/20/2015 16:35:32</publishTime>
+    </File>
+    <File Include="bin/fa/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:21:06</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:21:18</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/20/2015 16:32:22</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/20/2015 16:33:04</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>11/20/2015 16:34:34</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>11/20/2015 16:35:32</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:21:04</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/20/2015 16:32:22</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/20/2015 16:33:04</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>11/20/2015 16:34:34</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>11/20/2015 16:35:32</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:21:32</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/20/2015 16:32:22</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/20/2015 16:33:04</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>11/20/2015 16:34:34</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>11/20/2015 16:35:32</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/20/2015 16:32:22</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/20/2015 16:33:04</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>11/20/2015 16:34:34</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>11/20/2015 16:35:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.AppService.ApiApps.Service.dll">
+      <publishTime>03/18/2015 17:02:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.Documents.Client.dll">
+      <publishTime>04/19/2018 17:52:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.KeyVault.Core.dll">
+      <publishTime>07/29/2015 12:56:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bot.Builder.Autofac.dll">
+      <publishTime>09/05/2018 20:20:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bot.Builder.Azure.dll">
+      <publishTime>09/06/2018 03:42:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bot.Builder.dll">
+      <publishTime>09/05/2018 20:21:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bot.Builder.History.dll">
+      <publishTime>09/05/2018 20:21:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bot.Connector.dll">
+      <publishTime>09/05/2018 20:21:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>11/20/2015 16:32:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>11/20/2015 16:33:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Services.Client.dll">
+      <publishTime>11/20/2015 16:34:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>06/11/2017 20:59:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Protocol.Extensions.dll">
+      <publishTime>03/06/2017 16:09:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>06/11/2017 20:59:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>06/11/2017 20:59:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>06/11/2017 20:59:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Rest.ClientRuntime.dll">
+      <publishTime>05/22/2017 14:11:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/05/2012 11:08:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Configuration.dll">
+      <publishTime>10/25/2016 10:48:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>09/19/2016 15:51:54</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/02/2017 17:46:32</publishTime>
+    </File>
+    <File Include="bin/nl/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:19:50</publishTime>
+    </File>
+    <File Include="bin/pt-BR/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:21:02</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:21:08</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/20/2015 16:32:22</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/20/2015 16:33:04</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>11/20/2015 16:34:34</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>11/20/2015 16:35:32</publishTime>
+    </File>
+    <File Include="bin/Swashbuckle.Core.dll">
+      <publishTime>02/15/2015 17:57:08</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>06/11/2017 20:59:28</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>05/10/2018 22:38:56</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>11/20/2015 16:35:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>05/10/2018 22:37:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>05/10/2018 22:39:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>05/10/2018 22:39:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 04:03:46</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>11/24/2014 11:18:48</publishTime>
+    </File>
+    <File Include="bin/zh-hans/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/05/2018 20:21:06</publishTime>
+    </File>
+    <File Include="bin/zh-hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/20/2015 16:32:22</publishTime>
+    </File>
+    <File Include="bin/zh-hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/20/2015 16:33:04</publishTime>
+    </File>
+    <File Include="bin/zh-hans/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>11/20/2015 16:34:34</publishTime>
+    </File>
+    <File Include="bin/zh-hans/System.Spatial.resources.dll">
+      <publishTime>11/20/2015 16:35:32</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/20/2015 16:32:22</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/20/2015 16:33:04</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>11/20/2015 16:34:34</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>11/20/2015 16:35:32</publishTime>
+    </File>
+    <File Include="ChatBotApplication.bot">
+      <publishTime>09/14/2018 11:35:02</publishTime>
+    </File>
+    <File Include="default.htm">
+      <publishTime>09/14/2018 11:35:02</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/14/2018 11:35:02</publishTime>
+    </File>
+    <File Include="Metadata/deploymentTemplates/apiappconfig.azureresource.json">
+      <publishTime>09/19/2018 17:40:48</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/20/2018 11:24:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/20/2018 16:30:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
